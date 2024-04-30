@@ -1,2 +1,2 @@
 # terraform
-this is terraform labs for aws cloud provider
+this is terraform lab for apache server on aws cloud provider
